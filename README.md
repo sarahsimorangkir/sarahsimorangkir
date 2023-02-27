@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<samp><h2>Hii There!!👋, I'm Sarah Omega Yulie Simorangkir</h2></samp>  
+<samp><h2>Hii There!!👋</h2></samp>  
 <img alt="GIF" src="./KLzy.gif" width="300" />
   
 <samp>Hello,
