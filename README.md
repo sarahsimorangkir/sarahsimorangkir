@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <samp><h2>Hi there 👋, My Name is Sarah Omega Yulie Simorangkir</h2></samp>  
-<img alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400" />
+<img alt="GIF" src="./KLzy.gif" width="300" />
   
 <samp>Hello,
 My name is **Sarah Omega Yulie Simorangkir**, I am a student of the Software Engineering Technology study program at the **Del Institute of Technology.**
