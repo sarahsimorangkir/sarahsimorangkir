@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img alt="GIF" src="./KLzy.gif" width="150" />
   
-<samp>Hii!!, I'm **Sarah Omega Yulie Simorangkir!!**</samp>    
+<samp>Hii, **Sarah** Here!!</samp>    
 
 <!-- <samp>
   <h4>Languages and Tools:</h4>
