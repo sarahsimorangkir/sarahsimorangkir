@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img alt="GIF" src="./KLzy.gif" width="150" />
   
-<samp>Hello!!, you can call me **Sarah**,interested in website development specialized in frontend engineering that most of the time working with React Ecosystem.</samp>    
+<samp>Hii!!, I'm **Sarah Omega Yulie Simorangkir!!**</samp>    
 
 <!-- <samp>
   <h4>Languages and Tools:</h4>
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <samp>
   <h4>Connect with me:</h4>
 </samp>
-<a href="https://www.linkedin.com/in/sarah-omega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarah omega yulie simorangkir" height="30" width="40" /></a>
+<p><a href="https://www.linkedin.com/in/sarah-omega/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarah omega yulie simorangkir" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sarah_oyeee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarah_oyeee" height="30" width="40" /></a></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahsimorangkir&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="sarahsimorangkir" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahsimorangkir&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="sarahsimorangkir" /><p>
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b6cfd4fvy7peo7fy72r7dptjmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b6cfd4fvy7peo7fy72r7dptjmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   ![Visitor Count](https://profile-counter.glitch.me/sarahsimorangkir/count.svg)
 
