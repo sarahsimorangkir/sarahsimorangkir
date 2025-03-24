@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahsimorangkir&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="sarahsimorangkir" /><p>
   
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31b6cfd4fvy7peo7fy72r7dptjmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b6cfd4fvy7peo7fy72r7dptjmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   ![Visitor Count](https://profile-counter.glitch.me/sarahsimorangkir/count.svg)
 
